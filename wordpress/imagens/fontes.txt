@@ -1,0 +1,4 @@
+imagem classificacao e predicao": https://scorecardstreet.wordpres.com/2015/12/09/is-machine-learning-the-new-epm-black/
+
+imagem curva normal de distribuicao:
+https://medium.com/analytics-vidhya/hypothesis-tests-with-python-bfff05955c43
